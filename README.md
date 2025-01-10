@@ -1,4 +1,4 @@
-Final Project Scenario
+# Final Project Scenario
 You have been asked by the product catalog manager at your company to develop an Product microservice to build a catalog for your e-commerce website. The user interface (UI) has been developed by another team and will be used by product administrators to maintain the product catalog. Since it is a microservice, it is expected to have a well-formed REST API that the UI and other microservices can call. This service initially needs the ability to create, read, update, delete, and list products by various attributes.
 
 You have also been informed that someone else has started on this project and has already developed the database model and a Python Flask-based REST API with an endpoint to create products. You will already have this code in your copy of the repository.
